@@ -1,0 +1,22 @@
+{
+  "slug": "bukele-says",
+  "name": "Bukele Says",
+  "wordmark": "BUKELE",
+  "subject": "Nayib Bukele",
+  "handle": "nayibbukele",
+  "initials": "NB",
+  "color": "#526d86",
+  "profile": "https://x.com/nayibbukele",
+  "origin": "https://nanalab.kr/bukele-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}

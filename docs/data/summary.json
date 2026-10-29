@@ -1,0 +1,241 @@
+{
+  "slug": "bukele-says",
+  "captured_at": "2026-10-28T23:51:54.990547+00:00",
+  "coverage": "partial",
+  "records": 127,
+  "first": "2026-06-28",
+  "last": "2026-10-28",
+  "exact_time": 127,
+  "sources": [
+    {
+      "id": "nitter-public-timeline",
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies",
+      "creator": "Nitter public timeline (original X account linked for every record)",
+      "redistributed_fields": [
+        "post_id",
+        "author",
+        "ID-derived timestamp",
+        "original_permalink",
+        "post_kind"
+      ],
+      "body_rights": "Not established; all scraped bodies, media, translations and third-party summaries excluded"
+    }
+  ],
+  "collection_limit_pages": 20,
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies",
+      "sha256": "94fece684faeb90000993a678ecc4d23aa2b1d76b35f7cd891a3c8c62f51fc45",
+      "timeline_items": 20,
+      "accepted": 9,
+      "excluded": {
+        "repost": 11
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__-sLAAIAAAATMjExMTU4NjE0MTY3NzcyODA3NwgAAwAAAAIAAA",
+      "sha256": "4887b57bc1c13e883f2a88a4019bb068295e2247ac5be52cfe91864baa14e9c0",
+      "timeline_items": 20,
+      "accepted": 6,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 13
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__9gLAAIAAAATMjExMTA1Njk5MzA0MTQwODMyOAgAAwAAAAIAAA",
+      "sha256": "84b8ac60526d5edf31d36d014162e044ea490c8d0a3e9a3404a98db250903ef7",
+      "timeline_items": 21,
+      "accepted": 4,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 16
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__8QLAAIAAAATMjExMDU3NDQyMTM5NjA3MDgxMwgAAwAAAAIAAA",
+      "sha256": "2fb8ff9888e74838bedc110ffe8c7c88ad5c459ad5f73355654e05546bbbd5f8",
+      "timeline_items": 21,
+      "accepted": 6,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 14
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__7ALAAIAAAATMjExMDE4MzQ0NTgyNTcyNDQzMggAAwAAAAIAAA",
+      "sha256": "646c9aec60638855b6d9a3a96b09cc87092b2b9d630a54f6d1d6e036f7acb700",
+      "timeline_items": 21,
+      "accepted": 7,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 13
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__5wLAAIAAAATMjEwNzI2NjY0NjM4MTU4ODc3NwgAAwAAAAIAAA",
+      "sha256": "bb40d74ec1259916e6807b24ef1eebdb2696dd2a4f37f04a7e83e476949b6f9b",
+      "timeline_items": 21,
+      "accepted": 4,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 16
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__4gLAAIAAAATMjEwNjAwMDYzNDQ0MDk5NDkxMAgAAwAAAAIAAA",
+      "sha256": "3df83a27199a896ef2dadfc88ef3bdbdd05e98a8cf87537670d35524ee0602dd",
+      "timeline_items": 21,
+      "accepted": 6,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 14
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__3ULAAIAAAATMjEwNDgxMjY4MDQyMjgzNDUzNggAAwAAAAIAAA",
+      "sha256": "78486de45da62a51cb699831a91001928fcb389f595a65fb448bf97206a44560",
+      "timeline_items": 21,
+      "accepted": 0,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 20
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__2ELAAIAAAATMjEwNDM5OTk3ODU5MjQ1MzEwMAgAAwAAAAIAAA",
+      "sha256": "fdcc55629b133553032bef87b02d5780cea10b2c5edb6c0ad6abc8fbf1401bfc",
+      "timeline_items": 21,
+      "accepted": 4,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 16
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__00LAAIAAAATMjEwMzYyNDM4MDg1NzM4OTMyMQgAAwAAAAIAAA",
+      "sha256": "63c24a2c229d96dfd45ab714d30a492a5db91338a2fbb510133a96e7e09b5d5d",
+      "timeline_items": 21,
+      "accepted": 3,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 17
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__zkLAAIAAAATMjEwMTMxMzA0MDgzODcyNjAwNAgAAwAAAAIAAA",
+      "sha256": "513fb11e3034dc7be61544e4c7debb4f8ff114863b4cb0bd643e34c66b160539",
+      "timeline_items": 21,
+      "accepted": 6,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 14
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__yULAAIAAAATMjA5ODgxNzgxNTAzMzU3NzczOAgAAwAAAAIAAA",
+      "sha256": "91abd8d72843701005afeca9f58fcc5e6b0f34bf94974a4de1b3d05116404c8a",
+      "timeline_items": 21,
+      "accepted": 7,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 13
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__xELAAIAAAATMjA5NzQ1MDA0ODc3MDQ2OTk0MAgAAwAAAAIAAA",
+      "sha256": "f4981b58766f894bb6f8cf458b71b88eda12707f8fffdbd94c1facb6faa05da8",
+      "timeline_items": 21,
+      "accepted": 0,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 20
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__v0LAAIAAAATMjA5NzExMzI5NjczNDE4NzY0NwgAAwAAAAIAAA",
+      "sha256": "13f99fe59828719266e3658edf5bf8181173faa007fa584068def92acbf92ca1",
+      "timeline_items": 21,
+      "accepted": 5,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 15
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__uoLAAIAAAATMjA5NjI1NTQ5NzQxMDExODA3NQgAAwAAAAIAAA",
+      "sha256": "f5125144e2d2c306da6067ffd7ccc2aa97e2b52cc0b1ab86b2b52ac0dc998137",
+      "timeline_items": 21,
+      "accepted": 6,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 14
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__tYLAAIAAAATMjA5MzQ5MTEyODI0NjkxNTQ3NAgAAwAAAAIAAA",
+      "sha256": "50272c350ead5e7593b2962848857617299c7dc99ee40d359841858ea711b6c9",
+      "timeline_items": 21,
+      "accepted": 5,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 15
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__sILAAIAAAATMjA4OTE3ODg2NTIwOTg2MDQyMggAAwAAAAIAAA",
+      "sha256": "3830871fc6f7e0fa5b79b2a82fcfa4e2bb2dcd206c81c29947ad12461fb46627",
+      "timeline_items": 21,
+      "accepted": 8,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 12
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__q4LAAIAAAATMjA4MzYzODYxMzc0MTM1OTU2NAgAAwAAAAIAAA",
+      "sha256": "215c2535a99a0222f409caf58cec812989955ecdf74e4554221d7f3bf159fd53",
+      "timeline_items": 21,
+      "accepted": 11,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 9
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__poLAAIAAAATMjA4MTU3NDAxMDI4Mjc3ODgwMAgAAwAAAAIAAA",
+      "sha256": "67179c0aaca4ec1adc6cb060c260810e4ecf4dbdfd16cd77e5d645620a83a1c3",
+      "timeline_items": 21,
+      "accepted": 10,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 10
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/nayibbukele/with_replies?cursor=DAAHCgABHVwYT51__oYLAAIAAAATMjA3NTA0MjA2MDI5ODU1NTQ3MQgAAwAAAAIAAA",
+      "sha256": "870a94e8b768068640a2bb45056b37ad22524acdd60e2b75e9b1ad21d3b33030",
+      "timeline_items": 23,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    }
+  ],
+  "excluded": {
+    "repost": 274,
+    "missing-author-or-permalink": 19
+  },
+  "repost_policy": "Exclude every native repost; require matching top-level permalink, username and timeline-item author. Quotes require authored content; replies are eligible. Ambiguous records excluded.",
+  "translation_policy": "No translations collected or created. Official X embed displays original content.",
+  "post_body_policy": "Only factual metadata and original permalinks are redistributed; original content is loaded through the official X embed on demand.",
+  "subject": "Nayib Bukele",
+  "account": "nayibbukele",
+  "platform_counts": {
+    "x": 127
+  },
+  "days": 73,
+  "months": 5,
+  "content_mode": "official_embeds"
+}
